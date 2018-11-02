@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  14 OCT 2018 13:57
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  29 OCT 2018 18:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -719,23 +719,24 @@ to your \documentclass declaration may fix this.
 Try typing  <return>  to proceed.
 
 \c@thm=\count113
-No file Proyecto_Caos.aux.
+(./Proyecto_Caos.aux)
 \openout1 = `Proyecto_Caos.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 71.
-LaTeX Font Info:    ... okay on input line 71.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
+LaTeX Font Info:    ... okay on input line 78.
+
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
@@ -767,7 +768,7 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 \AtBeginShipoutBox=\box32
-Package hyperref Info: Link coloring OFF on input line 71.
+Package hyperref Info: Link coloring OFF on input line 78.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -777,78 +778,109 @@ Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
 \c@section@level=\count120
 )
-LaTeX Info: Redefining \ref on input line 71.
-LaTeX Info: Redefining \pageref on input line 71.
-LaTeX Info: Redefining \nameref on input line 71.
+LaTeX Info: Redefining \ref on input line 78.
+LaTeX Info: Redefining \pageref on input line 78.
+LaTeX Info: Redefining \nameref on input line 78.
+
+(./Proyecto_Caos.out) (./Proyecto_Caos.out)
 \@outlinefile=\write3
 \openout3 = `Proyecto_Caos.out'.
 
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
-LaTeX Font Info:    Try loading font information for U+msa on input line 73.
+LaTeX Font Info:    Try loading font information for U+msa on input line 80.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 73.
+LaTeX Font Info:    Try loading font information for U+msb on input line 80.
 
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Try loading font information for U+lasy on input line 73.
+LaTeX Font Info:    Try loading font information for U+lasy on input line 80.
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-
-LaTeX Warning: Reference `eq:area' on page 1 undefined on input line 82.
-
-
-LaTeX Warning: Reference `sec:nada' on page 1 undefined on input line 84.
-
-
-LaTeX Warning: Citation `Cd94' on page 1 undefined on input line 84.
-
-
-Underfull \hbox (badness 1968) in paragraph at lines 81--85
+Underfull \hbox (badness 1014) in paragraph at lines 92--96
 \OT1/cmr/m/n/10.95 Uno puede referirse a ecua-ciones as^^S^^P: ver
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 102.
-[1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
+Underfull \hbox (badness 3417) in paragraph at lines 99--100
+\OT1/cmr/m/n/10.95 En matem^^Saticas un mapeo, apli-caci^^Son o
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 102.
+
+! LaTeX Error: \begin{equation*} on input line 101 ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.106 \end{equation}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<figura_1.png, id=33, 722.7pt x 1284.8pt>
+File: figura_1.png Graphic file (type png)
+<use figura_1.png>
+Package pdftex.def Info: figura_1.png  used on input line 113.
+(pdftex.def)             Requested size: 85.35826pt x 151.73839pt.
+
+! LaTeX Error: \begin{document} ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.117 \end{enumerate}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.117 \end{enumerate}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 119.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
+[2
+
+ <./figura_1.png>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
  (./Proyecto_Caos.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 102.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 102.
-
-
-Package rerunfilecheck Warning: File `Proyecto_Caos.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Proyecto_Caos.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9A063E9069997775B75F44C2F729A5F5;184.
-
-LaTeX Warning: There were undefined references.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 102.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+Package rerunfilecheck Info: File `Proyecto_Caos.out' has not changed.
+(rerunfilecheck)             Checksum: FB983F643BB478623B0F5C49C146C10F;157.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
  ) 
 Here is how much of TeX's memory you used:
- 8202 strings out of 494880
- 119483 string characters out of 6179600
- 216514 words of memory out of 5000000
- 11402 multiletter control sequences out of 15000+600000
- 13989 words of font info for 57 fonts, out of 8000000 for 9000
+ 8220 strings out of 494880
+ 119685 string characters out of 6179600
+ 219810 words of memory out of 5000000
+ 11410 multiletter control sequences out of 15000+600000
+ 11815 words of font info for 47 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 53i,9n,92p,298b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,19n,92p,2062b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
@@ -856,11 +888,13 @@ ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmti10.pfb>
-Output written on Proyecto_Caos.pdf (1 page, 86997 bytes).
+blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
+s/symbols/msbm10.pfb>
+Output written on Proyecto_Caos.pdf (2 pages, 208461 bytes).
 PDF statistics:
- 54 PDF objects out of 1000 (max. 8388607)
- 42 compressed objects within 1 object stream
- 9 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 83 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
+ 11 named destinations out of 1000 (max. 500000)
+ 30 words of extra memory for PDF output out of 10000 (max. 10000000)
 
