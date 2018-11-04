@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  29 OCT 2018 18:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  4 NOV 2018 13:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -719,7 +719,20 @@ to your \documentclass declaration may fix this.
 Try typing  <return>  to proceed.
 
 \c@thm=\count113
-(./Proyecto_Caos.aux)
+(./Proyecto_Caos.aux
+
+LaTeX Warning: Label `etiqueta' multiply defined.
+
+
+LaTeX Warning: Label `etiqueta' multiply defined.
+
+
+LaTeX Warning: Label `etiqueta' multiply defined.
+
+
+LaTeX Warning: Label `etiqueta' multiply defined.
+
+)
 \openout1 = `Proyecto_Caos.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 78.
@@ -736,8 +749,7 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 78.
 LaTeX Font Info:    ... okay on input line 78.
 LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 78.
 LaTeX Font Info:    ... okay on input line 78.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
 \scratchdimen=\dimen130
@@ -803,39 +815,57 @@ LaTeX Font Info:    Try loading font information for U+lasy on input line 80.
 (/usr/share/texlive/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
 )
-Underfull \hbox (badness 1014) in paragraph at lines 92--96
-\OT1/cmr/m/n/10.95 Uno puede referirse a ecua-ciones as^^S^^P: ver
+Underfull \hbox (badness 1466) in paragraph at lines 88--89
+\OT1/cmr/m/n/10.95 en-teros, por ejem-plo la ecuaci^^Son $\OML/cmm/m/it/10.95 x
+[] \OT1/cmr/m/n/10.95 =
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 99--100
-\OT1/cmr/m/n/10.95 En matem^^Saticas un mapeo, apli-caci^^Son o
- []
-
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
+Underfull \vbox (badness 2035) has occurred while \output is active []
 
  [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
+Underfull \hbox (badness 1014) in paragraph at lines 93--97
+\OT1/cmr/m/n/10.95 Uno puede referirse a ecua-ciones as^^S^^P: ver
+ []
 
-! LaTeX Error: \begin{equation*} on input line 101 ended by \end{equation}.
+
+Underfull \hbox (badness 3417) in paragraph at lines 100--101
+\OT1/cmr/m/n/10.95 En matem^^Saticas un mapeo, apli-caci^^Son o
+ []
+
+
+! LaTeX Error: \begin{equation*} on input line 102 ended by \end{equation}.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.106 \end{equation}
+l.107 \end{equation}
                     
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<figura_1.png, id=33, 722.7pt x 1284.8pt>
+
+! LaTeX Error: \mathbb allowed only in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 ...portivas y los números naturales \mathbb
+                                                  {N}. Este mapeo podría se...
+
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<figura_1.png, id=40, 722.7pt x 1284.8pt>
 File: figura_1.png Graphic file (type png)
 <use figura_1.png>
-Package pdftex.def Info: figura_1.png  used on input line 113.
+Package pdftex.def Info: figura_1.png  used on input line 112.
 (pdftex.def)             Requested size: 85.35826pt x 151.73839pt.
 
 ! LaTeX Error: \begin{document} ended by \end{enumerate}.
@@ -844,7 +874,7 @@ See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.117 \end{enumerate}
+l.116 \end{enumerate}
                      
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
@@ -853,48 +883,217 @@ or  <return>  to continue without it.
 ! Extra \endgroup.
 <recently read> \endgroup 
                           
-l.117 \end{enumerate}
+l.116 \end{enumerate}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+
+! LaTeX Error: \begin{equation*} on input line 126 ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.128 \end{equation}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[2 <./figura_1.png>]
+
+! LaTeX Error: \begin{equation*} on input line 130 ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.132 \end{equation}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: \begin{equation*} on input line 146 ended by \end{equation}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.148 \end{equation}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<map_log.jpg, id=59, 1084.05pt x 1084.05pt>
+File: map_log.jpg Graphic file (type jpg)
+<use map_log.jpg>
+Package pdftex.def Info: map_log.jpg  used on input line 152.
+(pdftex.def)             Requested size: 199.16928pt x 199.15665pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+! LaTeX Error: \begin{document} ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156 \end{enumerate}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.156 \end{enumerate}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+<pendulo.jpg, id=60, 722.7pt x 722.7pt>
+File: pendulo.jpg Graphic file (type jpg)
+<use pendulo.jpg>
+Package pdftex.def Info: pendulo.jpg  used on input line 163.
+(pdftex.def)             Requested size: 199.16928pt x 199.16766pt.
+
+Underfull \hbox (badness 1577) in paragraph at lines 164--164
+[]|\OT1/cmr/bx/n/10.95 Figura 3.1 \OT1/cmr/m/n/10.95 Es-pa-cio fase de un os-ci
+lador
+ []
+
+[3 <./map_log.jpg>]
+
+! LaTeX Error: \begin{document} ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.167 \end{enumerate}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.167 \end{enumerate}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+
+Underfull \hbox (badness 1448) in paragraph at lines 169--170
+[]\OT1/cmr/m/n/10.95 Un atrac-tor puede pre-sen-tarse como un
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 171--172
+[]\OT1/cmr/m/n/10.95 En el a~no 1963, el pro-fe-sor Ed-ward
+ []
+
+<atrac_lor.jpg, id=70, 867.24pt x 867.24pt>
+File: atrac_lor.jpg Graphic file (type jpg)
+<use atrac_lor.jpg>
+Package pdftex.def Info: atrac_lor.jpg  used on input line 183.
+(pdftex.def)             Requested size: 199.16928pt x 199.16988pt.
+
+! LaTeX Error: \begin{document} ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.187 \end{enumerate}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.187 \end{enumerate}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+[4 <./pendulo.jpg> <./atrac_lor.jpg>]
+<sec_poin.jpg, id=79, 722.7pt x 722.7pt>
+File: sec_poin.jpg Graphic file (type jpg)
+<use sec_poin.jpg>
+Package pdftex.def Info: sec_poin.jpg  used on input line 205.
+(pdftex.def)             Requested size: 199.16928pt x 199.16766pt.
+
+
+! LaTeX Error: \begin{document} ended by \end{enumerate}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.209 \end{enumerate}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.209 \end{enumerate}
                      
 Things are pretty mixed up, but I think the worst is over.
 
 
 Package hyperref Warning: Difference (2) between bookmark levels is greater 
-(hyperref)                than one, level fixed on input line 119.
+(hyperref)                than one, level fixed on input line 213.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 131.
-[2
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 225.
+[5
 
- <./figura_1.png>]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 131.
+ <./sec_poin.jpg>]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 225.
  (./Proyecto_Caos.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 131.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 131.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 225.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 225.
 Package rerunfilecheck Info: File `Proyecto_Caos.out' has not changed.
-(rerunfilecheck)             Checksum: FB983F643BB478623B0F5C49C146C10F;157.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 131.
+(rerunfilecheck)             Checksum: D34259C6CC019F67D6ACF1A9DF6A9FE9;272.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 225.
  ) 
 Here is how much of TeX's memory you used:
- 8220 strings out of 494880
- 119685 string characters out of 6179600
- 219810 words of memory out of 5000000
- 11410 multiletter control sequences out of 15000+600000
+ 8263 strings out of 494880
+ 120247 string characters out of 6179600
+ 221927 words of memory out of 5000000
+ 11431 multiletter control sequences out of 15000+600000
  11815 words of font info for 47 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 53i,19n,92p,2062b,346s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 53i,19n,92p,2165b,348s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist
-/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/
-type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfont
-s/symbols/msbm10.pfb>
-Output written on Proyecto_Caos.pdf (2 pages, 208461 bytes).
+ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/p
+ublic/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
+/cm/cmsy8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmt
+i10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm
+10.pfb>
+Output written on Proyecto_Caos.pdf (5 pages, 641545 bytes).
 PDF statistics:
- 83 PDF objects out of 1000 (max. 8388607)
- 66 compressed objects within 1 object stream
- 11 named destinations out of 1000 (max. 500000)
- 30 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 134 PDF objects out of 1000 (max. 8388607)
+ 107 compressed objects within 2 object streams
+ 28 named destinations out of 1000 (max. 500000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
