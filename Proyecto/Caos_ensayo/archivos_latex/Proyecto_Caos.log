@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  11 NOV 2018 23:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2018.10.12)  11 NOV 2018 23:41
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1130,7 +1130,7 @@ File: triangulo.jpg Graphic file (type jpg)
 <use triangulo.jpg>
 Package pdftex.def Info: triangulo.jpg  used on input line 328.
 (pdftex.def)             Requested size: 113.81102pt x 113.80379pt.
-<england.png, id=150, 903.375pt x 401.5pt>
+<england.png, id=152, 903.375pt x 401.5pt>
 File: england.png Graphic file (type png)
 <use england.png>
 Package pdftex.def Info: england.png  used on input line 337.
@@ -1138,7 +1138,7 @@ Package pdftex.def Info: england.png  used on input line 337.
 
 ! Undefined control sequence.
 l.343 ...zos”, para nombrar estas figuras \citar
-                                                  {}
+                                                  {frac}
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -1178,7 +1178,7 @@ LaTeX Warning: Command \textellipsis invalid in math mode on input line 360.
 
 LaTeX Warning: Command \textellipsis invalid in math mode on input line 360.
 
-<fractal.jpg, id=165, 722.7pt x 722.7pt>
+<fractal.jpg, id=168, 722.7pt x 722.7pt>
 File: fractal.jpg Graphic file (type jpg)
 <use fractal.jpg>
 Package pdftex.def Info: fractal.jpg  used on input line 375.
@@ -1210,7 +1210,7 @@ Underfull \hbox (badness 2253) in paragraph at lines 401--402
 $\OML/cmm/m/it/10.95 a[] > \OT1/cmr/m/n/10.95 0$. En el
  []
 
-<presa_atrac.png, id=179, 1044.90375pt x 635.37375pt>
+<presa_atrac.png, id=182, 1044.90375pt x 635.37375pt>
 File: presa_atrac.png Graphic file (type png)
 <use presa_atrac.png>
 Package pdftex.def Info: presa_atrac.png  used on input line 405.
@@ -1218,7 +1218,7 @@ Package pdftex.def Info: presa_atrac.png  used on input line 405.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
-<presa_bifur.png, id=182, 434.62375pt x 630.355pt>
+<presa_bifur.png, id=185, 434.62375pt x 630.355pt>
 File: presa_bifur.png Graphic file (type png)
 <use presa_bifur.png>
 Package pdftex.def Info: presa_bifur.png  used on input line 414.
@@ -1237,9 +1237,6 @@ Underfull \hbox (badness 1442) in paragraph at lines 456--457
  []
 
 
-LaTeX Warning: Citation `fracwiki' on page 11 undefined on input line 458.
-
-
 Underfull \hbox (badness 2698) in paragraph at lines 481--482
 \OT1/cmr/m/n/10.95 En la nat-u-raleza pode-mos en-con-trar una
  []
@@ -1249,7 +1246,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 481--482
 \OT1/cmr/m/n/10.95 enorme can-ti-dad de sis-temas mec^^Sanicos
  []
 
-<atrac_neuro.png, id=196, 798.985pt x 624.3325pt>
+<atrac_neuro.png, id=200, 798.985pt x 624.3325pt>
 File: atrac_neuro.png Graphic file (type png)
 <use atrac_neuro.png>
 Package pdftex.def Info: atrac_neuro.png  used on input line 485.
@@ -1448,24 +1445,24 @@ Overfull \hbox (7.2861pt too wide) in paragraph at lines 550--551
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 552--553
+Underfull \hbox (badness 10000) in paragraph at lines 554--555
 []\OT1/cmr/m/n/10.95 AnaliticaWeb, El com-por-tamiento
  []
 
 
-Underfull \hbox (badness 2205) in paragraph at lines 552--553
+Underfull \hbox (badness 2205) in paragraph at lines 554--555
 \OT1/cmr/m/n/10.95 frac-tal, 23 noviem-bre, 2017, $\OML/cmm/m/it/10.95 https \O
 T1/cmr/m/n/10.95 :
  []
 
 
-Overfull \hbox (6.88896pt too wide) in paragraph at lines 552--553
+Overfull \hbox (6.88896pt too wide) in paragraph at lines 554--555
 \OML/cmm/m/it/10.95 ==www:analiticaweb:es=comportamiento \OMS/cmsy/m/n/10.95 ^^
 @
  []
 
 
-Underfull \hbox (badness 8189) in paragraph at lines 554--555
+Underfull \hbox (badness 8189) in paragraph at lines 556--557
 \OT1/cmr/m/n/10.95 cion UPC,Universidad po-litec-nica de
  []
 
@@ -1477,7 +1474,7 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.557 \bibitem{lv} J. A. Vano,∗
+l.559 \bibitem{lv} J. A. Vano,∗
                                  ,J. C. Wildenberg, M. B. Anderson, J. K. No...
 
 Your command was ignored.
@@ -1485,39 +1482,77 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [13]
-Underfull \hbox (badness 1043) in paragraph at lines 561--563
+Underfull \hbox (badness 1043) in paragraph at lines 563--564
 []\OT1/cmr/m/n/10.95 A. BABLOY-ANTZ y A. DES-TEXHE,
  []
 
 
-Underfull \hbox (badness 8189) in paragraph at lines 564--565
+Underfull \hbox (badness 8189) in paragraph at lines 565--566
 \OT1/cmr/m/n/10.95 cion UPC,Universidad po-litec-nica de
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 569.
+! Missing $ inserted.
+<inserted text> 
+                $
+l.568 
+      
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+! Missing } inserted.
+<inserted text> 
+                }
+l.568 
+      
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 5787) in paragraph at lines 567--568
+\OT1/cmr/m/n/10.95 ci-clo-pe-dia li-bre. 27 jul 2018, 10:00
+ []
+
+
+Underfull \hbox (badness 1062) in paragraph at lines 567--568
+\OT1/cmr/m/n/10.95 UTC. 12 nov 2018, 05:07 $\OML/cmm/m/it/10.95 < https \OT1/cm
+r/m/n/10.95 :
+ []
+
+! Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.568 
+      
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 572.
 [14
 
 ]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 569.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 572.
  (./Proyecto_Caos.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 569.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 569.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 572.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 572.
 Package rerunfilecheck Info: File `Proyecto_Caos.out' has not changed.
 (rerunfilecheck)             Checksum: DA92D5FF2CCB05A53977E681C0CD9AAB;672.
 
 
-LaTeX Warning: There were undefined references.
-
-
 LaTeX Warning: There were multiply-defined labels.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 569.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 572.
  ) 
 Here is how much of TeX's memory you used:
- 8392 strings out of 494880
- 121897 string characters out of 6179600
- 225295 words of memory out of 5000000
- 11493 multiletter control sequences out of 15000+600000
+ 8395 strings out of 494880
+ 121931 string characters out of 6179600
+ 225392 words of memory out of 5000000
+ 11494 multiletter control sequences out of 15000+600000
  12122 words of font info for 48 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  53i,19n,92p,2185b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1536,10 +1571,10 @@ s/cm/cmr6.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr
 hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/latxfont/lasy10.pfb></usr/share/t
 exlive/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on Proyecto_Caos.pdf (14 pages, 1870737 bytes).
+Output written on Proyecto_Caos.pdf (14 pages, 1871109 bytes).
 PDF statistics:
- 304 PDF objects out of 1000 (max. 8388607)
- 244 compressed objects within 3 object streams
- 86 named destinations out of 1000 (max. 500000)
+ 309 PDF objects out of 1000 (max. 8388607)
+ 249 compressed objects within 3 object streams
+ 88 named destinations out of 1000 (max. 500000)
  159 words of extra memory for PDF output out of 10000 (max. 10000000)
 
